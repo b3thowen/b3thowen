@@ -17,30 +17,21 @@
 
 ### currently
 
-studying things I didn't know existed six months ago.
+studying things I didn't know existed a year ago.
 
-writing code.
-breaking code.
-occasionally understanding why.
+writing code -> breaking code -> occasionally understanding why.
 
-my github is mostly study materials, small projects, algorithms,
+my github is mostly study materials, small projects...
 and other evidence that I am, in fact, doing something.
 
-also currently preparing for the **CompTIA Security+** certification,
-which is going about as well as you'd expect.
+also preparing for CompTIA Security+,
+so that's going well. probably.
 
 ---
 
 ### interested in
 
-**data engineering**
-making data useful. preferably before it becomes 17 different csv files.
-
-**fintech**
-software + data + money. somehow this always gets interesting.
-
-**cybersecurity**
-learning how things break, mostly so I can understand how they work.
+**data engineering · fintech · cybersecurity**
 
 ---
 
