@@ -13,10 +13,12 @@
 
 </div>
 
-<sub>
-fun fact: <code>b3thowen</code> is a username I made when I was younger.
-I don't remember where it came from. It stuck, apparently.
-</sub>
+<div align="center">
+  <sub>
+    fun fact: <code>b3thowen</code> is a username I made when I was younger.<br>
+    I don't remember where it came from. It stuck, apparently.
+  </sub>
+</div>
 
 <div align="center">
 
